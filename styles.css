@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.quote-container {
+    margin-top: 20px;
+}
+
+#new-quote-btn {
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#search-input {
+    margin-top: 20px;
+    padding: 5px;
+}
+
+#search-btn {
+    margin-top: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
